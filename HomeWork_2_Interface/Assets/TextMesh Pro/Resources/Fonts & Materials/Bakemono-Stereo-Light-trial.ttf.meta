@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 1e3b834028672ad4b9cea97d338b61cc
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Bakemono Stereo Trial
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7fb2115b3c9659f49a40fe1df6d0b28c, type: 3}
+  - {fileID: 12800000, guid: 415d1b2dc0f67dd4baa2a5fab67be10c, type: 3}
+  - {fileID: 12800000, guid: 148d4d0a181303f4caeb557ff469aada, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
